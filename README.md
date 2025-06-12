@@ -1,4 +1,4 @@
-# Web Scraping Book Data from Books to Scrape (Python)
+# Web Scraping Book Data in Python
 
 ## Project Overview
 
